@@ -1,6 +1,6 @@
 {
   "name": "@yasg1988/ru-software-registry-skill",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Skill Codex для подготовки проекта и заявки в реестр российского ПО Минцифры.",
   "type": "commonjs",
   "license": "Apache-2.0",
