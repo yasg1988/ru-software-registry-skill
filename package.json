@@ -1,0 +1,43 @@
+{
+  "name": "@yasg1988/ru-software-registry-skill",
+  "version": "0.1.0",
+  "description": "Skill Codex для подготовки проекта и заявки в реестр российского ПО Минцифры.",
+  "type": "commonjs",
+  "license": "Apache-2.0",
+  "author": "yasg1988",
+  "homepage": "https://github.com/yasg1988/ru-software-registry-skill#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasg1988/ru-software-registry-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yasg1988/ru-software-registry-skill/issues"
+  },
+  "keywords": [
+    "codex",
+    "skill",
+    "минцифры",
+    "реестр-по",
+    "российское-по",
+    "документы"
+  ],
+  "files": [
+    "README.md",
+    "LICENSE",
+    "bin/",
+    "skills/",
+    "data/applicant.example.json",
+    "assets/"
+  ],
+  "bin": {
+    "install-ru-software-registry-skill": "bin/install.js"
+  },
+  "scripts": {
+    "install-skill": "node bin/install.js",
+    "validate": "python ./tools/validate_skill.py",
+    "audit": "python ./skills/ru-software-registry/scripts/audit_project.py ."
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

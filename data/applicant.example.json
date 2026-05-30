@@ -1,0 +1,31 @@
+{
+  "rightsholder_type": "individual_entrepreneur",
+  "rightsholder_name": "ИП Фамилия Имя Отчество",
+  "full_name": "Фамилия Имя Отчество",
+  "inn": "000000000000",
+  "ogrnip": "000000000000000",
+  "registration_date": "ДД.ММ.ГГГГ",
+  "legal_address": "Индекс, субъект РФ, город, улица, дом, офис/квартира",
+  "actual_address": "Индекс, субъект РФ, город, улица, дом, офис/квартира",
+  "phone": "+7 000 000-00-00",
+  "email": "support@example.ru",
+  "support": {
+    "email": "support@example.ru",
+    "phone": "+7 000 000-00-00",
+    "messenger": "MAX/Telegram/другое",
+    "response_time": "1-3 рабочих дня",
+    "provided_by": "Правообладатель лично"
+  },
+  "hosting": {
+    "provider": "Российский хостинг-провайдер",
+    "country": "Россия",
+    "city": "Санкт-Петербург",
+    "server_ip": "0.0.0.0"
+  },
+  "foreign_payments": {
+    "year": "2025",
+    "amount_rub": "0.00",
+    "revenue_rub": "0.00"
+  }
+}
+
