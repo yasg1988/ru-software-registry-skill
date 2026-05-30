@@ -24,4 +24,4 @@ jobs:
           git remote add gitverse "https://oauth2:${GITVERSE_TOKEN}@gitverse.ru/yasg1988/ru-software-registry-skill.git"
           git fetch origin main --tags
           git push gitverse refs/remotes/origin/main:refs/heads/main
-          git push gitverse +refs/tags/*:refs/tags/*
+          git push gitverse refs/tags/*:refs/tags/* || echo "Some tags already exist on GitVerse; main branch sync completed."
