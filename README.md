@@ -2,8 +2,8 @@
 
 ![Подача заявления в реестр отечественного ПО](assets/cover.svg)
 
-[![npm version](https://img.shields.io/npm/v/%40yasg1988%2Fru-software-registry-skill?style=for-the-badge&logo=npm&color=2ea043&cacheSeconds=300)](https://www.npmjs.com/package/@yasg1988/ru-software-registry-skill)
-[![GitHub release](https://img.shields.io/github/v/release/yasg1988/ru-software-registry-skill?style=for-the-badge&logo=github)](https://github.com/yasg1988/ru-software-registry-skill/releases)
+[![npm version](https://img.shields.io/badge/npm-v0.1.7-2ea043?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@yasg1988/ru-software-registry-skill)
+[![GitHub release](https://img.shields.io/badge/release-v0.1.7-1f6feb?style=for-the-badge&logo=github)](https://github.com/yasg1988/ru-software-registry-skill/releases/tag/v0.1.7)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=for-the-badge)](LICENSE)
 [![CI](https://img.shields.io/github/actions/workflow/status/yasg1988/ru-software-registry-skill/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/yasg1988/ru-software-registry-skill/actions/workflows/ci.yml)
 [![npm publish](https://img.shields.io/github/actions/workflow/status/yasg1988/ru-software-registry-skill/publish-npm.yml?style=for-the-badge&label=npm%20publish)](https://github.com/yasg1988/ru-software-registry-skill/actions/workflows/publish-npm.yml)
